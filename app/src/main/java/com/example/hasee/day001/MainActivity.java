@@ -13,4 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private void test(){
         System.out.println("张三");
     }
+    private void test1(){
+        System.out.println("李四");
+    }
 }
